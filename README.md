@@ -1,8 +1,7 @@
 # Quasi-Love-Wave-Detections
 - Matlab code for the analysis of Quasi-Love waves from seismic surface wave data. 
 - Written by Caroline Eakin
-- Please acknowledge and refer to the following paper for further details: Eakin (202-) xxx, Communications Earth & Environment, xxx. 
-- Pre-print available here: https://www.researchsquare.com/article/rs-121788/v1
+- Please acknowledge and refer to the following paper for further details: Eakin (2021), Communications Earth & Environment, doi:10.1038/s43247-021-00276-7. 
 - Code reproduces Figure S1 of the above paper. 
 
 **Overview of Quasi-Love Waves**
